@@ -1,6 +1,12 @@
-# Tourism
+#  THEME - Tourism
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
+
+
+## Steps To Run:
+1. Clone the repo
+2. npm i inside project folder
+3. npx ng serve
 
 ## Development server
 
